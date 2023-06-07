@@ -16,8 +16,6 @@
 O FruStore é um sistema baseado em Arduino que garante a qualidade e a durabilidade de frutas e hortaliças no processo de armazenamento. Utilizando sensores de temperatura, umidade e luminosidade, o sistema monitora constantemente as condições ambientais.
 Os dados são exibidos em um display LCD e por LEDs. Indicando se o ambiente é adequado ou não. O FruStore oferece monitoramento em tempo real, economia de recursos, e de alimentos.
 
-### Para saber mais acesse:
-https://grupo-arthemis.github.io/Food_For_All/index.html
 
 ## Esquema de montagem 
 
@@ -27,9 +25,12 @@ Para simulações com o projeto, o Tinkercad foi utilizado.
 ### Para mais detalhes:
 https://www.tinkercad.com/things/1yaqbOkOYcT-global-solution/editel?sharecode=nB7lHUpVZqklxWa2gJIon4QEktOjLqlE198_McWCto0
 
-
-
-
-
 ## Componentes utilizados na montagem:
 ![image](https://github.com/Grupo-Arthemis/Frustore/assets/84590776/23377bf9-71c2-431a-8431-64c73626c0f6)
+
+### Para saber mais acesse nosso site:
+https://grupo-arthemis.github.io/Food_For_All/index.html
+
+### Accesse tambem nosso Vídeo Pitch:
+https://www.youtube.com/watch?v=LDHpqMBP9DA&ab_channel=JuliaLins
+
